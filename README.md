@@ -1,5 +1,7 @@
 # [SheSharp] - Introdução ao Kafka
 ## [Projeto desenvolvido para palestra no DevelopersBr, frente de She Sharp falando sobre Introdução ao kafka.](https://www.youtube.com/watch?v=MyfEhLfjJJo)
+<img width="837" alt="Captura de Tela 2022-01-14 às 01 09 31" src="https://user-images.githubusercontent.com/19518771/149450041-d379c805-f15d-48f4-8772-31905d429069.png">
+
 
 Criando o Projeto
 
