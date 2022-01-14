@@ -1,9 +1,9 @@
 # [SheSharp] - Introdução ao Kafka
-## [Projeto desenvolvido para palestra no DevelopersBr, frente de She Sharp falando sobre Introdução ao kafka.](https://www.youtube.com/watch?v=MyfEhLfjJJo)
+## [Projeto desenvolvido para palestra no DevelopersBr](https://www.youtube.com/watch?v=MyfEhLfjJJo)
 <img width="837" alt="Captura de Tela 2022-01-14 às 01 09 31" src="https://user-images.githubusercontent.com/19518771/149450041-d379c805-f15d-48f4-8772-31905d429069.png">
 
 
-Criando o Projeto
+### Criando o Projeto
 
 ```powershell
 dotnet new sln -n Kafka
@@ -101,5 +101,3 @@ dotnet add package Confluent.Kafka --version 1.8.2
     ```
     <img width="1358" alt="Captura de Tela 2021-12-07 às 05 34 13" src="https://user-images.githubusercontent.com/19518771/145032507-2e8a9fdd-e8c8-49ac-9e86-bcc0f2f5abb6.png">
 
-
-    <!--https://github.com/marraia/Kafka-->
