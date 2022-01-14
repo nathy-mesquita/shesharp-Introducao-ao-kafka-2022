@@ -1,5 +1,5 @@
 # [SheSharp] - Introdução ao Kafka
-## Projeto desenvolvido para palestra no DevelopersBr, frente de She Sharp falando sobre Introdução ao kafka.
+## [Projeto desenvolvido para palestra no DevelopersBr, frente de She Sharp falando sobre Introdução ao kafka.](https://www.youtube.com/watch?v=MyfEhLfjJJo)
 
 Criando o Projeto
 
